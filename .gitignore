@@ -1,0 +1,15 @@
+.cache/
+.unsaved/
+.user/
+*.pdc
+
+# Windows
+[Dd]esktop.ini
+Thumbs.db
+$RECYCLE.BIN/
+
+# OS X
+.DS_Store
+.Spotlight-V100
+.Trashes
+._*
