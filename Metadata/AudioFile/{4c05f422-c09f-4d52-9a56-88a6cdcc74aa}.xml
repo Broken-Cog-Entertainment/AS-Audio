@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{08884994-b56b-4c8b-8200-7c0b1e8caa61}">
+	<object class="AudioFile" id="{4c05f422-c09f-4d52-9a56-88a6cdcc74aa}">
 		<property name="assetPath">
-			<value>LaserGun_2 (1).wav</value>
+			<value>SPACECRAFT_Deep_01_Gentle_loop_mono.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<property name="length">
-			<value>0.1874829931972789</value>
+			<value>4.7202721088435373</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{f6194196-debe-4d80-82f1-db7e981f06f5}</destination>
