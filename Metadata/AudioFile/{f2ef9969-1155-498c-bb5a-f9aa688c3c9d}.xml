@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{f2ef9969-1155-498c-bb5a-f9aa688c3c9d}">
+		<property name="assetPath">
+			<value>Fast Spaceship Engine Idle to Flying Transition    [004272].wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f6194196-debe-4d80-82f1-db7e981f06f5}</destination>
+		</relationship>
+	</object>
+</objects>
