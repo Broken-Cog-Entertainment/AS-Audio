@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{09b8c08b-6124-45c5-bdad-31bf099d392d}">
 		<property name="assetPath">
-			<value>TomWinandySFX_Explosions Volume I_CloseExplosion_05.wav</value>
+			<value>SFX_Spaceship_Secondary_Impact (2).wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
