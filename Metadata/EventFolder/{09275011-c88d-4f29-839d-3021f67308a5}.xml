@@ -5,7 +5,7 @@
 			<value>Tank</value>
 		</property>
 		<relationship name="folder">
-			<destination>{591ef7dc-71a3-4348-b751-3b3a919e4580}</destination>
+			<destination>{14cdd225-b35a-488f-8c3c-db81036bdc78}</destination>
 		</relationship>
 	</object>
 </objects>

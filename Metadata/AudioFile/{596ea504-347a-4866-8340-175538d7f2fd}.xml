@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{815ed191-04e3-42e2-a7c7-bb027b884892}">
+	<object class="AudioFile" id="{596ea504-347a-4866-8340-175538d7f2fd}">
 		<property name="assetPath">
-			<value>SFX_Tank_Secondary_Impact_05.wav</value>
+			<value>SFX_Tank_Secondary_Impact_02.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>1.9507083333333333</value>
+			<value>2.3475625</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{f6194196-debe-4d80-82f1-db7e981f06f5}</destination>
