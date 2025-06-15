@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{bfbe1a10-3f6c-4346-99b6-25b5bca85e8a}">
+		<property name="assetPath">
+			<value>SFX_Crabsticks_Idle (6).wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.0176875000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f6194196-debe-4d80-82f1-db7e981f06f5}</destination>
+		</relationship>
+	</object>
+</objects>
