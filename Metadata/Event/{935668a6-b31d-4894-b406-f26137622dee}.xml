@@ -5,7 +5,7 @@
 			<value>SFX_Vehicle_Explosion</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{197ec44c-2871-4934-af07-56033eafb689}</destination>
@@ -27,6 +27,9 @@
 		</relationship>
 		<relationship name="timeline">
 			<destination>{8a92eb28-2084-4ff8-af9a-347969f89e05}</destination>
+		</relationship>
+		<relationship name="banks">
+			<destination>{0aea05ad-1221-4080-ba35-7fa8c28f7f87}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{219f7866-8413-40a5-8cba-7a076bf24985}">
@@ -89,6 +92,7 @@
 	<object class="MixerBusEffectChain" id="{7c577c7b-b7cc-4277-aa04-23deae1b64cc}">
 		<relationship name="effects">
 			<destination>{8823497a-4f17-4a40-bf1d-55f4e82b2797}</destination>
+			<destination>{4b724366-0da7-4d77-b887-3417d10ea1dc}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{3dce7923-33eb-4781-a1e6-bb96c48a0dca}" />
@@ -104,4 +108,5 @@
 	</object>
 	<object class="MixerBusFader" id="{0dbda449-8e03-4ed3-a4da-96892079a2df}" />
 	<object class="MixerBusFader" id="{8823497a-4f17-4a40-bf1d-55f4e82b2797}" />
+	<object class="SpatialiserEffect" id="{4b724366-0da7-4d77-b887-3417d10ea1dc}" />
 </objects>
