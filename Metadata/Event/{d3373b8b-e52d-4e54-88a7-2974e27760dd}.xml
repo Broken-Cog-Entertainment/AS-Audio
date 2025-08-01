@@ -5,7 +5,7 @@
 			<value>SFX_Fire_Vent</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{197ec44c-2871-4934-af07-56033eafb689}</destination>
@@ -27,6 +27,9 @@
 		</relationship>
 		<relationship name="timeline">
 			<destination>{7289cd77-f7f2-4220-941d-945ba99d36a7}</destination>
+		</relationship>
+		<relationship name="banks">
+			<destination>{0aea05ad-1221-4080-ba35-7fa8c28f7f87}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{66d72185-2589-4f2a-a085-874b637bce31}">
@@ -105,9 +108,11 @@
 	<object class="MixerBusEffectChain" id="{84084b5e-b71d-4284-99d4-90a2009b06e7}">
 		<relationship name="effects">
 			<destination>{32fef750-9010-4b90-8dce-fce91eb14983}</destination>
+			<destination>{a590f40d-b7b7-4d27-96a0-258c39bcf0ad}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{03d2b88a-51d8-4e1b-981b-64d7ca640bda}" />
 	<object class="MixerBusFader" id="{74fe4255-4b43-4148-a6d0-f430b79dbc4d}" />
 	<object class="MixerBusFader" id="{32fef750-9010-4b90-8dce-fce91eb14983}" />
+	<object class="SpatialiserEffect" id="{a590f40d-b7b7-4d27-96a0-258c39bcf0ad}" />
 </objects>

@@ -5,7 +5,7 @@
 			<value>SFX_Steam_Vent_Bubbling</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{197ec44c-2871-4934-af07-56033eafb689}</destination>
@@ -27,6 +27,9 @@
 		</relationship>
 		<relationship name="timeline">
 			<destination>{d6bbe3b4-1d58-4d2a-a471-19fe40311ae7}</destination>
+		</relationship>
+		<relationship name="banks">
+			<destination>{0aea05ad-1221-4080-ba35-7fa8c28f7f87}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{8820d343-2d1c-490f-80bc-b104f44fcb17}">
@@ -105,9 +108,11 @@
 	<object class="MixerBusEffectChain" id="{958be934-e7ef-4813-8713-94e8f7a895c3}">
 		<relationship name="effects">
 			<destination>{8b76edd0-9563-441c-b729-d200fc1d08c4}</destination>
+			<destination>{69efc231-9a56-4944-a032-8e04bcbb3c2d}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{221663e7-8b5d-4ba1-a89b-d8878fb4c43d}" />
 	<object class="MixerBusFader" id="{b3c141db-7792-41f3-a611-88655bee41e3}" />
 	<object class="MixerBusFader" id="{8b76edd0-9563-441c-b729-d200fc1d08c4}" />
+	<object class="SpatialiserEffect" id="{69efc231-9a56-4944-a032-8e04bcbb3c2d}" />
 </objects>

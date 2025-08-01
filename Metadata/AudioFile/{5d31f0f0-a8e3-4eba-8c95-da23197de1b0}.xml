@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{5d31f0f0-a8e3-4eba-8c95-da23197de1b0}">
+		<property name="assetPath">
+			<value>SFX_Enter_Water_03.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.5774149659863945</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f6194196-debe-4d80-82f1-db7e981f06f5}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -5,7 +5,7 @@
 			<value>SFX_Steam_Vent_Hiss</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{197ec44c-2871-4934-af07-56033eafb689}</destination>
@@ -27,6 +27,9 @@
 		</relationship>
 		<relationship name="timeline">
 			<destination>{90fc113e-dc88-4aa6-bab7-dad229ec5968}</destination>
+		</relationship>
+		<relationship name="banks">
+			<destination>{0aea05ad-1221-4080-ba35-7fa8c28f7f87}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{95a18e3b-1f54-4f8f-b647-2244150a51e2}">
@@ -92,6 +95,7 @@
 	<object class="MixerBusEffectChain" id="{f6c001bb-ee7a-47ef-b998-343362f3d91a}">
 		<relationship name="effects">
 			<destination>{75ea475f-4e91-4156-9a93-50da36f43a72}</destination>
+			<destination>{49156e22-4745-480e-a38d-57d9a74ebd08}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{578a4f62-0653-492c-a075-1c89299ae42a}" />
@@ -115,6 +119,7 @@
 	</object>
 	<object class="MixerBusFader" id="{f164afa6-3067-4775-844e-374623fb5b17}" />
 	<object class="MixerBusFader" id="{75ea475f-4e91-4156-9a93-50da36f43a72}" />
+	<object class="SpatialiserEffect" id="{49156e22-4745-480e-a38d-57d9a74ebd08}" />
 	<object class="AutomationPoint" id="{120be77b-a591-4ba9-a43f-a21840d10ce6}">
 		<property name="position">
 			<value>4.5</value>
