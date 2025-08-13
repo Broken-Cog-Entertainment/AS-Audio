@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{aba83970-f3e7-454e-879c-a27053944b1a}">
+		<property name="assetPath">
+			<value>AMBSci_Ambience SciFi_S8k02-21.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>120.56961451247166</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f6194196-debe-4d80-82f1-db7e981f06f5}</destination>
+		</relationship>
+	</object>
+</objects>

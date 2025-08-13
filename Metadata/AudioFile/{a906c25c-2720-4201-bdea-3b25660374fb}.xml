@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{a906c25c-2720-4201-bdea-3b25660374fb}">
+		<property name="assetPath">
+			<value>SFX_Tank_Grapple_Retract_03.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.54095833333333332</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f6194196-debe-4d80-82f1-db7e981f06f5}</destination>
+		</relationship>
+	</object>
+</objects>
